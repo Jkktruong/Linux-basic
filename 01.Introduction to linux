@@ -1,0 +1,30 @@
+## Introduction to linux
+### 1.Linux history
+- Linux là tên gọi của một hệ điều hành máy tính. Linux là một hạt nhân dùng để phát triển hệ điều hành máy tính. HDH linux ngày nay được tạo ra dựa trên sự đóng gói nhân linux cùng với các thư viện cũng như công cụ GNU.
+- Linux được tạo ra lần đầu tiên năm 1991 do linus Torvalds viết và liên tục được ông phát triển hoàn thiện đến năm 1994 ông hoàn thành phiên bản 1.0.
+
+### 2.Các bản phân phối của Linux (https://blogd.net/linux/tong-quan-ve-cac-ban-phan-phoi-linux/ , https://blogd.net/linux/lich-su-he-dieu-hanh-linux/ , https://quantrimang.com/ban-phan-phoi-linux-tot-nhat-cho-lap-trinh-vien-163564)
+- Dựa theo tính chất thì các bản phân phối của linux sẽ có 2 dạng là bản phân phối dành cho cộng đồng được cung cấp hoàn toàn miễn phí và các bản phân phối dùng cho mục đích thương mại với việc tính phí để cung cấp các hỗ trợ tốt hơn.
+- Các bản phân phối phổ biến: Redhat, CentOS, Debian, Ubuntu,...
+<ul>
+	<li>Redhat: Là bản phân phối thương mại dành cho máy chủ và máy trạm, được phát triển dựa trên dự án nguồn mở fedora nhưng được thiết kế để trở thành một nền tảng ổn định với sự hỗ trợ lâu dài</li>.
+	<li>CentOS: Là một dự án cộng đồng lấy mã nguồn từ Redhat linux tuy nhiên đã được xóa toàn bộ nhãn hiệu của Red Hat và được phân phối miễn phí.</li>
+	<li>Debian: Là một hệ điều hành chỉ bao gồm các phần mềm mã nguồn mở. Hoạt động từ năm 1993, Debian vẫn đều đặn phát hành các bản cập nhật.</li>
+	<li>Ubuntu: là bản phân phối dựa trên Debian nhưng sở hữu kho phần mềm riêng. Ubuntu là một bản phân phối hiện đại, không ngừng cải tiến để cung cấp đến người dụng sự ổn định và các hỗ trợ lâu dài.</li>
+	<li>Ngoài các bản phân phối trên Linux còn có các bản phân phối khác với các mục đích khác nhau như Fedora được dùng để làm môi trường kiểm thử công nghệ cho các bản phân phối thương mại khác. Linux Mint với các bản sắc riêng tạo trải nghiệm khác cho người dùng. Còn nhiều bản phân phối khác.</li>
+</ul>
+
+### 3.Bản quyền và giấy phép sử dụng
+	Linux là dự án mã nguồn mở nên đối với các bản phân phối cộng đồng là miễn phí. Đối với các bản phân phối thương mại thì sẽ được tính phí do các nhà phân phối cung cấp như RHEL sẽ do Red Hat cung cấp bản quyền.
+
+### 4.Ưu nhược điểm của linux so với windows
+#### 4.1.Ưu điểm
+- Linux là hệ điều hành mã nguồn mở nên nó sẽ có nhiều bản phân phối miễn phí hoặc tính phí khá rẻ cho người dùng sử dụng. Trong khi đó các bản phân phối của windows khá là đắt đỏ.
+- Linux có kho ứng dụng được cung cấp miễn phí, còn trên windows thì hầu như ứng dụng đều có tính phí bản quyền.
+- Linux là hệ điều hành ít bị virus hay các hacker tấn công, trong khi đó windows là hệ điều hành thường xuyên bị virus cũng như hacker tấn công để đánh cắp mã hóa dữ liệu.
+- Linux yêu cầu phần cấu hình phần cứng ít nên có thể hoạt động mượt mà trên các máy tính có cấu hình yếu. Trong khi đó, windows lại phải yêu cầu một máy tính có cấu hình cao để có thể hoạt động mượt mà.
+
+#### 4.2.Nhược điểm
+- Kho ứng dụng tuy được cung cấp miễn phí nhưng sự đa dạng về số lượng ứng dụng lại không thể nhiều như trên hệ điều hành windows
+- Linux có giao diện không dễ sử dụng đối với người dùng bình thường nên thường gây khó khăn cho người mới làm quen hơn hệ điều hành windows
+- Linux không được nhiều nhà sản xuất phát triển driver hỗ trợ vì thế người dùng sẽ gặp khó khăn khi sử dụng một số phần mềm ứng dụng.
