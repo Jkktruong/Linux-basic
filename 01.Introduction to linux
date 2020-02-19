@@ -17,7 +17,7 @@
 ### 3.Bản quyền và giấy phép sử dụng
 	Linux là dự án mã nguồn mở nên đối với các bản phân phối cộng đồng là miễn phí. Đối với các bản phân phối thương mại thì sẽ được tính phí do các nhà phân phối cung cấp như RHEL sẽ do Red Hat cung cấp bản quyền.
 
-### 4.Ưu nhược điểm của linux so với windows
+### 4.Ưu nhược điểm của linux so với windows (https://tech.bizflycloud.vn/he-dieu-hanh-linux-la-gi-uu-diem-va-nhuoc-diem-cua-hdh-linux-20180704090927779.htm , https://blog.tinohost.com/he-dieu-hanh-linux-la-gi/)
 #### 4.1.Ưu điểm
 - Linux là hệ điều hành mã nguồn mở nên nó sẽ có nhiều bản phân phối miễn phí hoặc tính phí khá rẻ cho người dùng sử dụng. Trong khi đó các bản phân phối của windows khá là đắt đỏ.
 - Linux có kho ứng dụng được cung cấp miễn phí, còn trên windows thì hầu như ứng dụng đều có tính phí bản quyền.
@@ -28,3 +28,13 @@
 - Kho ứng dụng tuy được cung cấp miễn phí nhưng sự đa dạng về số lượng ứng dụng lại không thể nhiều như trên hệ điều hành windows
 - Linux có giao diện không dễ sử dụng đối với người dùng bình thường nên thường gây khó khăn cho người mới làm quen hơn hệ điều hành windows
 - Linux không được nhiều nhà sản xuất phát triển driver hỗ trợ vì thế người dùng sẽ gặp khó khăn khi sử dụng một số phần mềm ứng dụng.
+
+### 5.Sự khác nhau giữa linux và windows (https://quantrimang.com/7-su-khac-biet-chinh-giua-windows-va-linux-90658)
+- Cấu trúc file: Trong Linux sẽ không xuất hiện các Ổ đĩa C, D giống như windows mà thay vào đó là một cây dữ liệu và các ổ đĩa sẽ được bung vào đó.
+- Không có registry: trong Linux không có registry là cơ sở dữ liệu chung như thông tin về ứng dung, mật khẩu giống windows.
+- Trình quản lý gói: Trên linux sẽ có một chương trình quản lý gói dùng để quản lý cài đặt và gỡ bỏ các chương trình ứng dụng, còn windows ta sẽ download các gói cài đặt có đuôi dạng .exe thông qua website và gỡ ứng dụng thông qua control panel.
+- Giao diện thay đổi được: Giao diện của Linux được tách riêng với hệ thống lõi nên có thể dễ dàng thay đổi giao diện mà không phải cài lại chương trình.
+- Lệnh đầu cuối: là hệ điều hành giao diện dòng lệnh vì thế ta sẽ sử dụng các cấu trúc câu lệnh là chủ yếu. Linux cũng có giao diện đồ họa xong không mạnh mẽ bằng giao diện dòng lệnh.
+- Tài khoản và quyền user: windows có 4 dạng user là Administrator, standard, child, guest. Trong khi linux có 3 dạng user Regular (user thông thường, không có quyền truy cập vào folder của user khác), Root (hay Admininistrator là user có quyền cao nhất thực hiện được mọi hoạt động), service (user dịch vụ cá nhân riêng trong hệ điều hành máy chủ).
+- Các thiết lập điều khiển: windows được các nhà sản xuất driver ưu ái và tập trung hơn linux nên sẽ có nhiều ứng dụng giải trí ở trên windows hơn linux.
+- Tính tự do: là môi trường mở cho mọi người học tập và khám phá.
